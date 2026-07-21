@@ -1,0 +1,26 @@
+ Dashboard Module
+
+TC_006 - Verify dashboard is displayed after successful login
+
+Module: Dashboard
+
+Test Scenario: 
+Verify dashboard is displayed after successful login.
+
+Test Steps:
+1. Open OrangeHRM login page.
+2. Enter valid username and password.
+3. Click Login button.
+4. Verify dashboard page.
+
+Test Data:
+Username: Admin  
+Password: admin123
+
+Expected Result:
+Dashboard should be displayed successfully after login.
+
+Actual Result:
+Dashboard displayed successfully.
+
+Status: Pass
